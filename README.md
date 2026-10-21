@@ -490,55 +490,7 @@ For a rigorous experiment, use a validation set to select hyperparameters and re
 
 ---
 
-## 📸 Application Screenshots and Tests
 
-This section is reserved for screenshots taken while running and testing the application.
-
-Save the screenshots in `docs/images/` and keep the filenames consistent with the Markdown references below.
-
-### 1. Main Dashboard
-
-A screenshot of the Streamlit application showing the layout, sidebar configuration, and summary metrics.
-
-![Smart Keyboard main dashboard](docs/images/dashboard.png)
-
-*Figure 1 — Main dashboard of Smart Keyboard.*
-
-### 2. Next-Word Prediction
-
-A screenshot showing an example input sentence, the Top-3 suggestions, their probabilities, and the model used.
-
-![Next-word prediction interface](docs/images/prediction.png)
-
-*Figure 2 — Interactive next-word prediction.*
-
-### 3. Model Evaluation
-
-A screenshot of the evaluation page showing the comparison table and performance charts.
-
-![Model evaluation dashboard](docs/images/evaluation.png)
-
-*Figure 3 — Perplexity and Top-3 accuracy comparison.*
-
-### 4. Dataset Preview
-
-A screenshot showing examples from the local corpus or the optional Hugging Face dataset.
-
-![Dataset preview](docs/images/dataset.png)
-
-*Figure 4 — Dataset preview in Streamlit.*
-
-### 5. Test Results
-
-A screenshot of a successful terminal execution of the evaluation script or a test of unknown-word handling.
-
-![Test execution results](docs/images/test-results.png)
-
-*Figure 5 — Evaluation or functional test results.*
-
-**Note:** These image paths are placeholders. Add your own screenshots with the exact filenames above, or change the paths to match your actual files. Until the image files exist in the repository, GitHub will not display them.
-
----
 
 ## ⚠️ Limitations
 
